@@ -13,3 +13,6 @@
 # Note 2 - Commenting out -> //.include("title")
 
 > Will fail the test with lists of "accessibility violations errors"
+
+Author
+Olatunde Oladeni
